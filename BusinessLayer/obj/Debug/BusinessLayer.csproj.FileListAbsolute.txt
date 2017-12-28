@@ -1,0 +1,6 @@
+C:\Users\Dell\source\repos\MVCDemo\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\Dell\source\repos\MVCDemo\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\Dell\source\repos\MVCDemo\BusinessLayer\obj\Debug\BusinessLayer.csprojResolveAssemblyReference.cache
+C:\Users\Dell\source\repos\MVCDemo\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\MVCDemo\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\Dell\source\repos\MVCDemo\BusinessLayer\obj\Debug\BusinessLayer.pdb
