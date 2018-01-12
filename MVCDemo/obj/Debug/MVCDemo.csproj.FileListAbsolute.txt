@@ -26,3 +26,4 @@ C:\Users\Dell\source\repos\MVCDemo\MVCDemo\bin\EntityFramework.xml
 C:\Users\Dell\source\repos\MVCDemo\MVCDemo\bin\EntityFramework.SqlServer.xml
 C:\Users\Dell\source\repos\MVCDemo\MVCDemo\bin\BusinessLayer.dll
 C:\Users\Dell\source\repos\MVCDemo\MVCDemo\bin\BusinessLayer.pdb
+C:\Users\Dell\source\repos\MVCDemo\MVCDemo\bin\BusinessLayer.dll.config
